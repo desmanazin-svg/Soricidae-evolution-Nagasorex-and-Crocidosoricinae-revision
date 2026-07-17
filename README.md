@@ -1,6 +1,6 @@
 # Soricidae-evolution-Nagasorex-and-Crocidosoricinae-revision
 This project comprises the Supplementary Materials for the manuscript entitled 'Rainer Hutterer’s Naga shrew and the origin of modern soricids: a new phylogenetic hypothesis' by Leonid Voyta.
-version 2026-07-17
+Version 2026-07-17.
 The materials are provided as the following files: (a) 3-crocidosoricinae_matrix_v03.nex; (b) voyta_Supplementary_Materials_S01-S12_v02.pdf [2.8 Mb]; (c) voyta_Supplementary_Materials_S10_pruned_trees_SM_v02.pdf [2.8 Mb].
 The files are provided in a ZIP archive [5.0 Mb].
 --------------
